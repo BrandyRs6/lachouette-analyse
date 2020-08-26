@@ -69,9 +69,7 @@ a:hover {
     -webkit-background-size: auto!important;
     -moz-background-size: auto!important;
     -o-background-size: auto!important;
-    background-size: auto!important;
-}
-
+    background-size: auto!important;}
 .bg-repeat {
     background: repeat;
 }
@@ -822,7 +820,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
