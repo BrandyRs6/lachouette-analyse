@@ -1,0 +1,12 @@
+Completer la  balise meta description .
+Respecter l'ordre des balises titres .
+Le nom des pages doit être en liaison avec la page spécifique.
+Les images doivent avoir un attribut alt 
+Utiliser les balises semantiques
+L'element title doit être spécifier a la page.
+Les liens doivent avoir un text descriptif
+ajouter la balise meta viewport.
+Enlever les links qui n'ont pas de lien avec le site et les annuaires.
+ajouter des balieses semantiques
+
+
